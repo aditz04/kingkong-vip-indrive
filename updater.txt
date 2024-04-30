@@ -1,9 +1,9 @@
 {
-  "salindri_update": [
+  "kingkong_update": [
     {
- "version":"5.74.1",
+ "version":"5.76.0",
  "title":"Update Tersedia",
- "description":"SalMod InDriver recommends that you
+ "description":"KingKong Vip Mod InDriver recommends that you
 update to the latest version 5.74.1 You
 can keep online the app while
 downloading the update.",
