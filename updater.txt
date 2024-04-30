@@ -1,7 +1,7 @@
 {
   "kingkong_update": [
     {
- "version":"5.76.0",
+ "version":"5.77.0",
  "title":"Update Tersedia",
  "description":"KingKong Vip Mod InDriver recommends that you
 update to the latest version 5.74.1 You
